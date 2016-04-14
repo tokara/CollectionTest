@@ -57,4 +57,4 @@ public class CollectionTest {
     }
     
     
-}
+}end class
