@@ -16,7 +16,7 @@ public class CollectionTest {
     public static void main(String[] args) {
     
        String[] colors = {"Blue", "Red", "Orange", "Yellow", "White", "Black"};
-       List<String> list = new ArrayList<>();
+       List<String> list = new ArrayList<>();'added'
        
        for(String color : colors){
        list.add(color);    
